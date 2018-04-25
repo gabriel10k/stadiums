@@ -17,7 +17,6 @@ Corinthians|Arena Corinthians|Arena de São Paulo,  68_000,  São Paulo, SP
 
 ##########
 # CE
-
 Castelão|Estádio Castelão,  64_846, Fortaleza, CE
 
 ###########
@@ -69,9 +68,9 @@ Pernambuco|Arena Pernambuco, 46_154,  Recife, PE
 ##############
 # PR
 
-Da Baixada|Arena da Baixada,  43_981, Curitiba, PR
+Baixada|Arena da Baixada,  43_981, Curitiba, PR
+# Club: Atlético Paranaense
 
-## -- todo/check: check if is proper portuges name?
-Estadio Durival de Britto e Silva, 20_083, Curitiba, PR
-# club: Atlético Paranaense
+Vila Capanema|Estadio Durival de Britto e Silva, 20_083, Curitiba, PR
+# Club: Paraná Clube
 
